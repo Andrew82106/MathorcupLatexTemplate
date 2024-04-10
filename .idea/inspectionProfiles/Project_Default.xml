@@ -1,0 +1,95 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="2349" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="url_for(" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="hanlp" />
+            <item index="1" class="java.lang.String" itemvalue="Flask" />
+            <item index="2" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="3" class="java.lang.String" itemvalue="torch" />
+            <item index="4" class="java.lang.String" itemvalue="numpy" />
+            <item index="5" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="6" class="java.lang.String" itemvalue="gevent" />
+            <item index="7" class="java.lang.String" itemvalue="chardet" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="W292" />
+          <option value="E741" />
+          <option value="E501" />
+          <option value="E402" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N814" />
+          <option value="N813" />
+          <option value="N812" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="dict" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnnecessaryBackslashInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="inputSet" />
+          <option value="int.route" />
+          <option value="int.*" />
+          <option value="dict.sort" />
+          <option value="list.*" />
+          <option value="T2.Tree.Node.*" />
+          <option value="str.*" />
+          <option value="h3Related" />
+          <option value="type_" />
+          <option value="backend.CrawlMaster.monk.database" />
+          <option value="backend.CrawlMaster.monk.SparkModel_V30" />
+          <option value="backend.CrawlMaster.monk.QuotaCalculate" />
+          <option value="dict.__getitem__" />
+          <option value="Modules.dbScan.sklearnex" />
+          <option value="argparse.ArgumentParser.mode" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
