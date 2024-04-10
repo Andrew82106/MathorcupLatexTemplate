@@ -16,3 +16,22 @@
 
 - 修改了字体要求（注释掉MMCStyle.cls中line38），从而可用于Overleaf
 - 添加``gbt7714-numerical.bst``文件，从而可使用gbt7714引用格式对bib文件进行引用文献管理
+
+## 效果
+
+![img.png](temp/img.png)
+
+![img.png](temp/img1.png)
+
+![img.png](temp/img3.png)
+
+![img.png](temp/img_1.png)
+
+![img.png](temp/img_2.png)
+
+![img.png](temp/img_3.png)
+
+
+
+
+
