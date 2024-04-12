@@ -1,7 +1,7 @@
 % 要求使用LaTeX2e的特定版本
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
 % 定义MathorCupmodeling文档类，版本为1.0
-\ProvidesClass{MathorCupmodeling}[2020/01/14 version 1.0]
+\ProvidesClass{MMCStyle}[2020/01/14 version 1.0]
 
 % 加载ctexart文档类，设置纸张为A4纸，行距为1.25倍，默认字号为小4
 \LoadClass[oneside,a4paper,UTF8,linespread=1.25,zihao=-4]{ctexart}

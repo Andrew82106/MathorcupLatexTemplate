@@ -8,7 +8,7 @@
 
 将仓库中文件全部放入Overleaf中，按需求修改MMC.tex和ref.bib即可。
 
-图片放在figure文件夹下。
+图片放在figure文件夹下。使用XeLaTeX编译
 
 ## 新增特性
 
