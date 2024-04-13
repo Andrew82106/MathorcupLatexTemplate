@@ -2,6 +2,7 @@
 
 基于repo：[github sikouhjw repo](https://github.com/sikouhjw/MathorCupmodeling)
 
+欢迎提issue！
 
 
 ## how to use
